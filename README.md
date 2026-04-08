@@ -2,6 +2,10 @@
 
 Application mobile de gestion de rendez-vous pour un centre de santé, avec authentification JWT et gestion des rôles (Patient / Admin).
 
+## Démo
+
+<video src="https://cdn.boukary.dev/docagenda-demo.mp4" controls width="300"></video>
+
 ## Stack technique
 
 - **Mobile** : React Native 0.83 (bare, sans Expo)
