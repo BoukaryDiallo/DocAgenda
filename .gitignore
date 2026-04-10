@@ -4,6 +4,5 @@ node_modules/
 .idea/
 *.pdf
 *.jpg
-*.png
 backend/package-lock.json
 mobile/package-lock.json
