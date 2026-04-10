@@ -7,5 +7,3 @@ node_modules/
 *.png
 backend/package-lock.json
 mobile/package-lock.json
-mobile/ios/
-mobile/android/
