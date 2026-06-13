@@ -4,7 +4,7 @@ Application mobile de gestion de rendez-vous pour un centre de santé, avec auth
 
 ## Démo
 
-[Voir la vidéo de démonstration](https://cdn.boukary.dev/docagenda-demo.mp4)
+[Voir la vidéo de démonstration](https://cdn.boukarydiallo.com/docagenda-demo.mp4)
 
 ## Stack technique
 
